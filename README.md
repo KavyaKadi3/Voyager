@@ -5,12 +5,14 @@ Voyager is an easy-to-use, efficient trip planning navigational tool (Geogrpahic
 <img width="929" alt="1" src="https://user-images.githubusercontent.com/65524500/204419534-c21063cc-d300-4cad-ad19-4fce113e9be8.png">
 
 Many businesses that operate on a smaller scale (teams under 10 employees) often have to make their own product deliveries. Finding an ideal path to take between different delivery stops can be challenging. This process is made easy with Voyager.
+
 <img width="518" alt="0" src="https://user-images.githubusercontent.com/65524500/204423190-6e41679e-cbef-4eda-96e7-50e92b09218b.png">
 
 Here is how to navigate Voyager's simple graphical interface:
 
 ## Help Button
 Voyager displays a help button at the bottom right of the user interface. Clicking on this button displays a descriptive and clear message that allows its users to gain a complete understanding of the map and its features. Users can utilize this button to get an initial awareness of how Voyager works and can rely on it at any point of uncertainty or confusion using the software.
+
 <img width="572" alt="2" src="https://user-images.githubusercontent.com/65524500/204422632-95fe64c4-ac59-4194-9ecd-d453b8518375.png">
 
 ## Error/Instruction Messages
@@ -30,6 +32,7 @@ Dark Mode displays the map with certain colours to emit lower illuminance , keep
 <img width="517" alt="6" src="https://user-images.githubusercontent.com/65524500/204423856-4c818b4f-2eac-4aa0-a198-441738d88b02.png">
 
 ## Zoom to Intersection + Point of Intersection Pop-up box
+
 Voyager lets users find points of interest (POIs) nearby any location through the orange circles. Users can press the “Zoom to Intersection” button to view their wanted location closer on the map, and the POIs nearby. 
 <img width="516" alt="7" src="https://user-images.githubusercontent.com/65524500/204424718-dfd62168-586f-4f05-bced-6e4563cea343.png">
 
