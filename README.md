@@ -35,6 +35,7 @@ Voyager lets users find points of interest (POIs) nearby any location through th
 
 
 When a user clicks on any of the orange circles (POIs), it lets users know the closest intersection to it and the type of point of interest it is (e.g. coffee shops). 
+
 <img width="593" alt="8" src="https://user-images.githubusercontent.com/65524500/204424731-d2c76371-da97-472f-a99c-87bd6e3bac7e.png">
 
 
