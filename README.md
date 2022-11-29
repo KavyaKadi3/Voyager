@@ -12,7 +12,7 @@ Many businesses that operate on a smaller scale (teams under 10 employees) often
 Here is how to navigate Voyager's simple graphical interface:
 
 ## Help Button
-Voyager displays a help button at the bottom right of the user interface. Clicking on this button displays a descriptive and clear message that allows its users to gain a complete understanding of the map and its features. Users can utilize this button to get an initial awareness of how Voyager works and can rely on it at any point of uncertainty or confusion using the software.
+Voyager displays a help button at the bottom right of the user interface. Clicking on this button displays a descriptive and clear message that allows its users to gain a complete understanding of the map and its features. Users can leverage this button to gain an initial awareness of how Voyager works and can rely on it at any point of uncertainty or confusion while using the software.
 
 <img width="572" alt="2" src="https://user-images.githubusercontent.com/65524500/204422632-95fe64c4-ac59-4194-9ecd-d453b8518375.png">
 
@@ -21,7 +21,7 @@ Any time a feature is utilized in Voyager, an instruction box will appear so tha
 
 <img width="528" alt="3" src="https://user-images.githubusercontent.com/65524500/204423388-2c4ee624-e1f4-44e9-bc8a-1d1aa943f082.png">
 
-When the program is used incorrectly (e.g. user enters invalid input into search bar), Voyager provides helpful messages to provide insight on what was done inaccurately.
+When a user incorrectly utilizes the program (e.g. user enters invalid input into search bar), Voyager provides helpful messages to provide insight on what was done inaccurately.
 
 <img width="520" alt="4" src="https://user-images.githubusercontent.com/65524500/204423478-414ddedb-54aa-46c1-80ae-4b6c03afb208.png">
 <img width="481" alt="5" src="https://user-images.githubusercontent.com/65524500/204423488-583d2b73-d310-43e2-9106-9e85e72a310b.png">
@@ -38,6 +38,6 @@ Voyager lets users find points of interest (POIs) nearby any location through th
 <img width="516" alt="7" src="https://user-images.githubusercontent.com/65524500/204424718-dfd62168-586f-4f05-bced-6e4563cea343.png">
 
 
-When a user clicks on any of the orange circles (POIs), it lets users know the closest intersection to it and the type of point of interest it is (e.g. coffee shops). 
+When a user clicks on any of the orange circles (POIs), it lets users know the closest intersection to it and the type of point of interest it is (e.g. cafe). 
 
 <img width="593" alt="8" src="https://user-images.githubusercontent.com/65524500/204424731-d2c76371-da97-472f-a99c-87bd6e3bac7e.png">
