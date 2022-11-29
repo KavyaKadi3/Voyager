@@ -29,5 +29,13 @@ Dark Mode displays the map with certain colours to emit lower illuminance , keep
 
 <img width="517" alt="6" src="https://user-images.githubusercontent.com/65524500/204423856-4c818b4f-2eac-4aa0-a198-441738d88b02.png">
 
+## Zoom to Intersection + Point of Intersection Pop-up box
+Voyager lets users find points of interest (POIs) nearby any location through the orange circles. Users can press the “Zoom to Intersection” button to view their wanted location closer on the map, and the POIs nearby. 
+<img width="516" alt="7" src="https://user-images.githubusercontent.com/65524500/204424718-dfd62168-586f-4f05-bced-6e4563cea343.png">
+
+
+When a user clicks on any of the orange circles (POIs), it lets users know the closest intersection to it and the type of point of interest it is (e.g. coffee shops). 
+<img width="593" alt="8" src="https://user-images.githubusercontent.com/65524500/204424731-d2c76371-da97-472f-a99c-87bd6e3bac7e.png">
+
 
 
