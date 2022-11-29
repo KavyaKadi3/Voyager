@@ -1,7 +1,7 @@
 # Voyager
 *Plan Today, Deliver Tomorrow*
 
-Voyager is an easy-to-use, efficient trip planning navigational tool (Geogrpahical dedicated to helping small business owners plan, schedule and optimize their delivery routes.
+Voyager is an easy-to-use, efficient trip-planning navigational tool (Geographic Information System) dedicated to helping small business owners plan, schedule, and optimize their delivery routes.
 <img width="929" alt="1" src="https://user-images.githubusercontent.com/65524500/204419534-c21063cc-d300-4cad-ad19-4fce113e9be8.png">
 
 Many businesses that operate on a smaller scale (teams under 10 employees) often have to make their own product deliveries. Finding an ideal path to take between different delivery stops can be challenging. This process is made easy with Voyager.
