@@ -17,12 +17,11 @@ Voyager displays a help button at the bottom right of the user interface. Clicki
 <img width="572" alt="2" src="https://user-images.githubusercontent.com/65524500/204422632-95fe64c4-ac59-4194-9ecd-d453b8518375.png">
 
 ## Error/Instruction Messages
-Anytime a feature that may be confusing to the user is utilized in Voyager, an instruction box will appear so that the user can understand how to optimally use it. 
+Any time a feature is utilized in Voyager, an instruction box will appear so that the user can understand how to apply it optimally. This instruction message appears when the Path Find: Click button is selected. 
 
-This message appears when the path find: click button is clicked, enabling that feature. As you can see the instructions to use this feature appears. We will see this feature in action later on in the presentation
 <img width="528" alt="3" src="https://user-images.githubusercontent.com/65524500/204423388-2c4ee624-e1f4-44e9-bc8a-1d1aa943f082.png">
 
-When the program is used incorrectly such as when the search bars have invalid inputs, Voyager provides helpful messages that appear to provide insight to the user on what they did incorrectly.
+When the program is used incorrectly (e.g. user enters invalid input into search bar), Voyager provides helpful messages to provide insight on what was done inaccurately.
 
 <img width="520" alt="4" src="https://user-images.githubusercontent.com/65524500/204423478-414ddedb-54aa-46c1-80ae-4b6c03afb208.png">
 <img width="481" alt="5" src="https://user-images.githubusercontent.com/65524500/204423488-583d2b73-d310-43e2-9106-9e85e72a310b.png">
