@@ -24,3 +24,9 @@ When the program is used incorrectly such as when the search bars have invalid i
 <img width="520" alt="4" src="https://user-images.githubusercontent.com/65524500/204423478-414ddedb-54aa-46c1-80ae-4b6c03afb208.png">
 <img width="481" alt="5" src="https://user-images.githubusercontent.com/65524500/204423488-583d2b73-d310-43e2-9106-9e85e72a310b.png">
 
+## Dark Mode
+Dark Mode displays the map with certain colours to emit lower illuminance , keeping the user's visual fatigue to a minimum. The option can be easily enabled by clicking on the “Dark Mode” button on the upper right corner of the user interface. Reactivating “Light Mode” can be done by clicking on the button again.
+<img width="517" alt="6" src="https://user-images.githubusercontent.com/65524500/204423856-4c818b4f-2eac-4aa0-a198-441738d88b02.png">
+
+
+
